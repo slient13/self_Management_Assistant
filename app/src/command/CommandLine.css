@@ -1,0 +1,30 @@
+div.command_line {
+    width: 90%;
+    height: auto;
+    position: fixed;
+    bottom: 10px;
+
+    padding: 5px 5px 5px 5px;
+
+    background-color: black;
+    border: medium solid #00ff33;
+    border-radius: 5px;
+    color: #00ff33;
+}
+
+textarea.command_line {
+    width: 100%;
+
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0px;
+    margin: 2px 0px;
+    
+    height: 16px;
+    max-height: 200px;
+    resize: none;
+    border: none;
+    color: #ffffff;
+    background-color: transparent;
+    outline: none;
+}

@@ -1,0 +1,24 @@
+div.element {
+    width: 200px;
+    line-height: 0.9em;
+    padding: 10px 10px 5px 5px;
+    border: medium solid #00ff33;
+    border-radius: 5px;
+    color: #00ff33;
+}
+
+div.element>h3 {
+    margin-top: 0.7em;
+}
+
+div.element>p {
+    margin-top: 0.3em;
+}
+
+div.cursor {
+    border-style: dashed;
+}
+
+div.selected {
+    border-color: #ff00cc;
+}
